@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventViewerVisualizer", "EventViewerVisualizer\EventViewerVisualizer.csproj", "{E9616682-1F6C-4536-9A65-0F528A050934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventViewerVisualizerLibrary", "EventViewerVisualizerLibrary\EventViewerVisualizerLibrary.csproj", "{35D5A995-D65D-4BFC-9D07-48EEA4CDCFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobolFormatLibrary", "CobolFormatLibrary\CobolFormatLibrary\CobolFormatLibrary.csproj", "{440B4966-F9FD-4B68-B22B-E6AC0E70BDF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9616682-1F6C-4536-9A65-0F528A050934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9616682-1F6C-4536-9A65-0F528A050934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9616682-1F6C-4536-9A65-0F528A050934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9616682-1F6C-4536-9A65-0F528A050934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D5A995-D65D-4BFC-9D07-48EEA4CDCFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D5A995-D65D-4BFC-9D07-48EEA4CDCFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D5A995-D65D-4BFC-9D07-48EEA4CDCFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D5A995-D65D-4BFC-9D07-48EEA4CDCFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440B4966-F9FD-4B68-B22B-E6AC0E70BDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440B4966-F9FD-4B68-B22B-E6AC0E70BDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440B4966-F9FD-4B68-B22B-E6AC0E70BDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440B4966-F9FD-4B68-B22B-E6AC0E70BDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
